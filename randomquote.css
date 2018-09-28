@@ -1,0 +1,67 @@
+body {background-color: #FF63;
+     font-family: "Great Vibes";
+}
+header {text-align: center;
+        font-size: 400%;
+        padding: 10px;
+        margin: 20px;
+        outline: none;
+}
+.align-center {text-align: center;
+}
+
+button {background-color: #FF60;
+        border: none;
+        outline: none;
+        style: none;
+        font-size: 200%;
+
+}
+button:hover{background-color: #fc7c;
+             border-radius: 4%;
+
+}
+button:onclick{outline: none;
+              border: none;
+}
+button.active{outline: none;
+             border: none;
+}
+button.launch:hover{outline: none;
+                    border: none;
+}
+button.launch{outline: none;
+              border: none;
+}
+button.change{outline: none;
+              border: none;
+}
+p {font-family: lora;
+   text-align: center;
+   text-decoration-color: black;
+  }
+#authorbox {padding: none;
+         font-family: Lora;
+         margin: 0px 450px 10px 200px;
+         font-size: 300%;
+         text-align: right;
+
+         }
+#quotebox {padding: none;
+         margin: 0px 90px 10px 100px;
+         font-family: Lora;
+         font-size: 200%;
+         text-align: center;
+         }
+
+#twitter{color: inherit;
+  text-decoration: none;
+  outline: none;
+  font-size: 250%;
+}
+#facebook{color: inherit;
+  text-decoration: none;
+}
+#next{outline: none;
+      border-style: none;
+      padding-right: 10px;}
